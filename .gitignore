@@ -1,0 +1,12 @@
+app/venv/
+app/.idea/
+
+__pycache__/
+app/src/__pycache__/
+app/src/*.pth
+app/src/*.pt
+app/src/tmp/*.jpg
+app/src/tmp/*.png
+app/src/tmp/*.jpeg
+src/tmp/*.txt
+!app/src/tmp/logo.png

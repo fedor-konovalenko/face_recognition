@@ -92,6 +92,8 @@ RMSE координат опорных точек на тестовой выбо
 - [Triplet Loss](https://www.kaggle.com/code/hirotaka0122/triplet-loss-with-pytorch)
 - [ArcFace Best Practice](https://github.com/deepinsight/insightface/tree/master)
 - [Пример с ArcFace и визуализацией эмбеддингов](https://www.kaggle.com/code/nanguyen/arcface-loss)
+- [еще про ArcFace](https://shubham-shinde.github.io/blogs/arcface/)
+- [и пример с EfficientNet](https://www.kaggle.com/code/zaccheroni/pytorch-efficientnet-arcface-training)
   
 -------
 ### Приложение
